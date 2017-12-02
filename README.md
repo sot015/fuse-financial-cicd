@@ -24,7 +24,7 @@ Download the git repository by either forking, or simply cloning it.
 (My suggestion is forking it, so you can play with the code)
 
 ```
-git https://github.com/YOUR_RPEO/fuse-financial-cicd.git
+git clone https://github.com/sot015/fuse-financial-cicd.git
 ```
 
 Start up your OpenShift environment by running
