@@ -77,7 +77,7 @@ Go to your traditional banking account project folder, and run
 ```
 cd ..
 cd fisdemoaccount
-mvn fabric8:deploy -Dmysql-service-username=dbuser -Dmysql-service-password=password
+mvn fabric8:deploy -Dmysql-service-username=dbuser -Dmysql-service-password=password -Dfabric8.generator.fromMode=docker
 ```
 
 
